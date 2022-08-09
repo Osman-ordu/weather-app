@@ -1,8 +1,6 @@
-
+# Weather App
 ![react-weather-app](https://user-images.githubusercontent.com/92692879/183619417-ab6d16e9-788e-46ef-85b8-4d20869c93bf.png)
 
-
-# Weather App
 
 # Getting Started with Create React App
 
