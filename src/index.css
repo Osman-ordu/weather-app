@@ -6,7 +6,10 @@
 }
 body {
   margin: 0;
+  background: #326786;
+  background: linear-gradient(to right, #e9eef2, #78a6c8,#24dd61, #326789);
   font-family: 'Fira Code', 'monospace';
+  color: #41336a;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

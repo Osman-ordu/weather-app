@@ -6,21 +6,49 @@
   flex-wrap: wrap;
   text-align: center;
   justify-content: center;
+  padding-top: 40px;
 }
 
 .search-input {
   font-family: 'Fira Code', 'monospace';
   text-align: center;
+  background-color: transparent;
+  color: #41336a;
+  font-weight: 700;
+  font-size: 16px;
   margin: 10px;
   padding: 10px;
   border:0;
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid #5689c0;
   outline: 0;
 
 }
 
 .title {
   font-family: 'Fira Code', 'monospace';
-  font-size: 30px;
+  text-shadow: 2px 2px 5px #5689c0;
+
+  font-size: 40px;
   margin: 20px;
+}
+
+.city {
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.temp {
+  font-size:80px ;
+  color:#5689c0;
+  text-shadow: 2px 2px 5px #41336a;
+}
+
+.desc {
+  font-weight: 600;
+  font-size: 30px;
+}
+.min-max {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 24px;
 }
