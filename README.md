@@ -1,6 +1,4 @@
 # Weather App
-![weather-img](https://user-images.githubusercontent.com/92692879/183670792-ff470d0f-5bd3-44b8-8862-4d536d3df2a9.png)
-
 
 # Getting Started with Create React App
 
